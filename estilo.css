@@ -2,6 +2,11 @@
     margin: 0;
 }
 
+.body__img{
+    width: 100%;
+    border-radius: 50%;
+}
+
 .contenedor{
     background: crimson;
     width: 100vw;
